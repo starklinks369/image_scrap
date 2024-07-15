@@ -1,0 +1,644 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:27:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:27:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:27:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:27:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:not enough values to unpack (expected 2, got 1)
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:27:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:28:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:28:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:28:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'int' object is not subscriptable
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:28:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:30:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:30:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:30:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'int' object is not subscriptable
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:30:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:38:55] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:08] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:39:52] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:50] "[33mGET /config/workspace/img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:50] "[33mGET /config/workspace/img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:41:51] "[33mGET /config/workspace/img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:51] "[33mGET /config/workspace/img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:51] "[33mGET /config/workspace/img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [14/Jul/2024 23:57:52] "[33mGET /config/workspace/img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:39] "[33mGET /config/workspace/img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:09:40] "[33mGET /config/workspace/img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:15:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:15:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:15:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:03] "[33mGET /img_scraper/images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:16:04] "[33mGET /img_scraper/images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:21:47] "[33mGET /images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.60:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "[33mGET /images/image1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "[33mGET /images/image2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "[33mGET /images/image9.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "[33mGET /images/image10.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:08] "[33mGET /images/image11.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image14.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image8.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image7.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image13.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image12.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image4.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image5.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /images/image6.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 00:32:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:25:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:25:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:25:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:25:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:26:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:27:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:27:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:27:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:27:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:27:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:30:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:30:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:30:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:30:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:33:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:33:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:33:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:33:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:41:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:41:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:41:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:41:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:43:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:43:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:43:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:43:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:44:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:44:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:44:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:44:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:46:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:46:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:46:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:46:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcQq_dsHrSohY5PXro8YPF9DLabDbTv6kEDwd1ZhnBNl_ItKDNLRmI2hZBhwHx0&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcRSJgBWwmM3CYUklUgqsW1Ql5eyYxV9NvHVERf2X1xJAQxl0HIFyT4Ts23ujzo&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcS3pEzOjUHKjzhf58IN9DlGlEeJxOSaJo9Y-RJr5WMwzH4N4MKVCq-alGnZMw&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcS7FVrEw5YcdIBqkgEJtVQHC5cS0BeLeyEjNLlRcQI4aTjOc7JXj0QhfzfKYU0&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSppzzGye1gwdX_evOslUWmHVDvlwo7cXIIINuLhFxoOKNpH2Wt4H2W9HAr2g&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcQlICRRT9ukiCQzM5EYXj9BgfH5gkbxAG99CaFZkmTeR-1AU1xhf71geOeDVYQ&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:49] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcRB93MJSOAgTSVNiljTSGd1c8MViXC0gn1ppPobF9z-KBgNAkQ-RwWHuUa9Jv8&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcQsnJzsdyjZ7NppJg1LFTBrpR_eGKuUzCZa5PjHDgyWea_0z1U4MO_IniXqqQ&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSQvwDNt1_VySFwcVKwr_fsBya0FYhi5BbL-iyb81bjfeHVqwnv8ds_w7WvZw&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcS9bogI1ovQl1tJrKkzuW7P-_Nia7DOXuhzr9yrAaq3PsAuUUrGuNVlHCsN0g4&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSxwtyF2F34q_6YSrkgwi-FzFcY26g1qYHU5GNiHIVlXh-a9CJIW24vXA9gsA&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSlHmZj0gC6rTdTl0X7zJeXWF6UQbxhrhS5btUH7BSipNPbrQB7aE9eoL6oXyk&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcRIrtbH8q7mzyZFVxX8GV20qGwZvC0Q3iE7-oGAYXeD9qErtMyd0n_Zc9J9kg&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSnFIkFktJn6QsOENv6gRhY0O8FKOGHNvMCLr0n5CRMMZYL1XmTsE3OoANZqms&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcThp4vZPGh60BuIgcIBDOeCJ_cRkbA8cU7u9DYTUTsFBVU5TyayavbfClYMCFY&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcSy5_slEDmXtwzUv6L60efrW6nUVifTheZMf225dNmFLxNok7w_7h81XrL5HQ&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcRYlbiK6khL4-9HPbYR9wQS35fUNRE2OZK3fGap1nhIcdI-wuEw1uYXiIMNop4&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcTSzoIdOxycj5sCI07cMwue7Xl5BEWHBOOwqccHmc5VQX0APAUV-8aVv6Gc1g&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcQ4TNBFSdIuoQC7e1EYXXUi_5Y5DDsPzbmy9F_8Pz_gO5pw5d30l0owPGdYPEw&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:51:50] "[33mGET /static/images/https://encrypted-tbn0.gstatic.com/images%3Fq=tbn:ANd9GcT7NogzXYU2OrZdJNhr1-voBAaQ0cyghBIXWXTj45IjOYM1s50_duyhQdjYSsM&s HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:58:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:58:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:58:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'image_url' is not defined
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 11:58:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:01:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:01:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:01:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'save_dir' is not defined
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:01:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:03:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:03:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:03:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'images' is not defined
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:04:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:11] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "[33mGET /static/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:12] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "[33mGET /static/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:32] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:05:33] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.58:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:44] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:44] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:44] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "[33mGET /static/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:06:45] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:26] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:26] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "[33mGET /static/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:27] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:07:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:05] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:05] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:05] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "[33mGET /static/images/image15.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 12:08:06] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:09] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:09] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:09] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:09] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:05:10] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:31] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:32] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:33] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:33] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:07:33] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:13:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:13:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:13:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:13:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:15:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:15:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:15:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:15:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:15:28] "[33mGET /static/images/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:43] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:43] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:43] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:44] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:16:45] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:55] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:55] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:56] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:56] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:56] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:56] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:57] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:58] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:18:58] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:48] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:48] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:19:49] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:07] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:24] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:55] "GET /static/images/image1.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:55] "GET /static/images/image2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:55] "GET /static/images/image3.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image6.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image14.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image11.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image12.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image13.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [15/Jul/2024 13:20:56] "GET /static/images/image10.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.55:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
